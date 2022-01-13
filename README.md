@@ -1,6 +1,6 @@
 # Realstaq
 
-Download project from https://github.com/aleksa016/Realstac.git
+Download project from https://github.com/aleksa016/Realstaq.git
 
 Upload project to IDE
 
